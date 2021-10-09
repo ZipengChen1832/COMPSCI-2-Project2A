@@ -1,0 +1,4 @@
+﻿  Vigenere Cipher.cpp
+C:\Users\Frank\OneDrive\Desktop\COMPSCI2\Project 2A\Vigenere Cipher\Vigenere Cipher\Vigenere Cipher.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Frank\OneDrive\Desktop\COMPSCI2\Project 2A\Vigenere Cipher\Vigenere Cipher\Vigenere Cipher.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+  Vigenere Cipher.vcxproj -> C:\Users\Frank\OneDrive\Desktop\COMPSCI2\Project 2A\Vigenere Cipher\Debug\Vigenere Cipher.exe

@@ -1,0 +1,4 @@
+﻿  Playfair Cipher.cpp
+C:\Users\Frank\OneDrive\Desktop\COMPSCI2\Project 2A\Playfair Cipher\Playfair Cipher\Playfair Cipher.cpp(24,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Frank\OneDrive\Desktop\COMPSCI2\Project 2A\Playfair Cipher\Playfair Cipher\Playfair Cipher.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  Playfair Cipher.vcxproj -> C:\Users\Frank\OneDrive\Desktop\COMPSCI2\Project 2A\Playfair Cipher\Debug\Playfair Cipher.exe
